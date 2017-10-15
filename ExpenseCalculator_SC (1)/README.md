@@ -1,4 +1,4 @@
-## Project Name:  Expense Calculator Application
+## Project Name:  Income Tax Calculator Application
 
 ### Course Title:
 Web Application Development
@@ -13,7 +13,7 @@ Web Application Development
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
+(Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
